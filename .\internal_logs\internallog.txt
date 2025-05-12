@@ -1,0 +1,260 @@
+2025-04-13 12:07:22.2152 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-04-13 12:07:22.2291 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-04-13 12:07:22.2888 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-04-13 12:07:22.2945 Info Configuration initialized.
+2025-04-13 12:07:29.7048 Info AppDomain Shutting down. LogFactory closing...
+2025-04-13 12:07:29.7072 Info LogFactory has been closed.
+2025-04-13 12:08:10.1413 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-04-13 12:08:10.1528 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-04-13 12:08:10.2173 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-04-13 12:08:10.2229 Info Configuration initialized.
+2025-04-13 12:08:50.2763 Info AppDomain Shutting down. LogFactory closing...
+2025-04-13 12:08:50.2804 Info LogFactory has been closed.
+2025-04-13 12:09:15.8722 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-04-13 12:09:15.8830 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-04-13 12:09:15.9382 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-04-13 12:09:15.9438 Info Configuration initialized.
+2025-04-13 12:09:38.4341 Info AppDomain Shutting down. LogFactory closing...
+2025-04-13 12:09:38.4375 Info LogFactory has been closed.
+2025-04-13 12:12:38.5009 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-04-13 12:12:38.5119 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-04-13 12:12:38.5686 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-04-13 12:12:38.5741 Info Configuration initialized.
+2025-04-13 12:19:40.1409 Info AppDomain Shutting down. LogFactory closing...
+2025-04-13 12:19:40.1456 Info LogFactory has been closed.
+2025-04-14 14:57:45.4626 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-04-14 14:57:45.4783 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-04-14 14:57:45.5415 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-04-14 14:57:45.5497 Info Configuration initialized.
+2025-04-14 14:58:25.6841 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-04-14 14:58:25.6950 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-04-14 14:58:25.7525 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-04-14 14:58:25.7580 Info Configuration initialized.
+2025-04-14 15:00:28.7807 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-04-14 15:00:28.7936 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-04-14 15:00:28.8558 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-04-14 15:00:28.8624 Info Configuration initialized.
+2025-04-14 15:00:42.6401 Info AppDomain Shutting down. LogFactory closing...
+2025-04-14 15:00:42.6437 Info LogFactory has been closed.
+2025-04-14 15:00:43.4734 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-04-14 15:00:43.4852 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-04-14 15:00:43.5401 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-04-14 15:00:43.5455 Info Configuration initialized.
+2025-04-14 15:00:53.2486 Info AppDomain Shutting down. LogFactory closing...
+2025-04-14 15:00:53.2515 Info LogFactory has been closed.
+2025-04-14 15:02:02.2473 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-04-14 15:02:02.2599 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-04-14 15:02:02.3194 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-04-14 15:02:02.3257 Info Configuration initialized.
+2025-04-14 15:02:15.6631 Info AppDomain Shutting down. LogFactory closing...
+2025-04-14 15:02:15.6665 Info LogFactory has been closed.
+2025-04-14 15:03:55.7076 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-04-14 15:03:55.7183 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-04-14 15:03:55.7716 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-04-14 15:03:55.7779 Info Configuration initialized.
+2025-04-14 15:05:58.0330 Info AppDomain Shutting down. LogFactory closing...
+2025-04-14 15:05:58.0367 Info LogFactory has been closed.
+2025-04-14 15:11:15.3460 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-04-14 15:11:15.3569 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-04-14 15:11:15.4113 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-04-14 15:11:15.4168 Info Configuration initialized.
+2025-04-14 15:13:30.5442 Info AppDomain Shutting down. LogFactory closing...
+2025-04-14 15:13:30.5479 Info LogFactory has been closed.
+2025-04-14 15:16:50.2000 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-04-14 15:16:50.2111 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-04-14 15:16:50.2681 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-04-14 15:16:50.2736 Info Configuration initialized.
+2025-04-14 15:17:36.9103 Info AppDomain Shutting down. LogFactory closing...
+2025-04-14 15:17:36.9152 Info LogFactory has been closed.
+2025-04-14 15:57:10.9216 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-04-14 15:57:10.9443 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-04-14 15:57:11.0192 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-04-14 15:57:11.0309 Info Configuration initialized.
+2025-04-14 16:00:08.1046 Info AppDomain Shutting down. LogFactory closing...
+2025-04-14 16:00:08.1095 Info LogFactory has been closed.
+2025-05-11 21:27:35.2348 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-11 21:27:35.2543 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-11 21:27:35.3150 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-11 21:27:35.3209 Info Configuration initialized.
+2025-05-11 21:39:46.8601 Info AppDomain Shutting down. LogFactory closing...
+2025-05-11 21:39:46.8639 Info LogFactory has been closed.
+2025-05-11 23:23:59.8564 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-11 23:23:59.8801 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-11 23:23:59.9446 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-11 23:23:59.9556 Info Configuration initialized.
+2025-05-11 23:28:31.2939 Info AppDomain Shutting down. LogFactory closing...
+2025-05-11 23:28:31.2979 Info LogFactory has been closed.
+2025-05-11 23:28:32.1253 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-11 23:28:32.1392 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-11 23:28:32.1937 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-11 23:28:32.1994 Info Configuration initialized.
+2025-05-11 23:51:52.9982 Info AppDomain Shutting down. LogFactory closing...
+2025-05-11 23:51:53.0040 Info LogFactory has been closed.
+2025-05-11 23:51:56.7586 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-11 23:51:56.7694 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-11 23:51:56.8199 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-11 23:51:56.8255 Info Configuration initialized.
+2025-05-12 00:49:37.2816 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 00:49:37.2859 Info LogFactory has been closed.
+2025-05-12 00:49:41.7523 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 00:49:41.7635 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 00:49:41.8210 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 00:49:41.8280 Info Configuration initialized.
+2025-05-12 01:34:54.9235 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 01:34:54.9278 Info LogFactory has been closed.
+2025-05-12 01:40:32.4411 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 01:40:32.4533 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 01:40:32.5073 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 01:40:32.5133 Info Configuration initialized.
+2025-05-12 01:41:18.6488 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 01:41:18.6543 Info LogFactory has been closed.
+2025-05-12 01:42:29.2538 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 01:42:29.2663 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 01:42:29.3182 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 01:42:29.3243 Info Configuration initialized.
+2025-05-12 01:47:38.9378 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 01:47:38.9428 Info LogFactory has been closed.
+2025-05-12 01:47:41.4199 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 01:47:41.4312 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 01:47:41.4804 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 01:47:41.4862 Info Configuration initialized.
+2025-05-12 02:23:46.8609 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 02:23:46.8656 Info LogFactory has been closed.
+2025-05-12 03:53:13.9833 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 03:53:13.9953 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 03:53:14.0616 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 03:53:14.0675 Info Configuration initialized.
+2025-05-12 04:03:37.1495 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 04:03:37.1558 Info LogFactory has been closed.
+2025-05-12 05:27:33.8442 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 05:27:33.8550 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 05:27:33.9048 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 05:27:33.9103 Info Configuration initialized.
+2025-05-12 05:27:38.3806 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 05:27:38.3834 Info LogFactory has been closed.
+2025-05-12 14:52:09.1466 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 14:52:09.1585 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 14:52:09.2090 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 14:52:09.2145 Info Configuration initialized.
+2025-05-12 15:18:52.9993 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 15:18:53.0086 Info LogFactory has been closed.
+2025-05-12 15:24:07.4892 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 15:24:07.5014 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 15:24:07.5549 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 15:24:07.5614 Info Configuration initialized.
+2025-05-12 15:26:33.3484 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 15:26:33.3523 Info LogFactory has been closed.
+2025-05-12 15:26:34.2006 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 15:26:34.2125 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 15:26:34.2662 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 15:26:34.2719 Info Configuration initialized.
+2025-05-12 15:47:38.6034 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 15:47:38.6084 Info LogFactory has been closed.
+2025-05-12 16:21:04.4788 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 16:21:04.4911 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 16:21:04.5497 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 16:21:04.5560 Info Configuration initialized.
+2025-05-12 18:58:13.5640 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 18:58:13.5689 Info LogFactory has been closed.
+2025-05-12 19:33:48.7499 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 19:33:48.7617 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 19:33:48.8240 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 19:33:48.8291 Info Configuration initialized.
+2025-05-12 19:33:49.4862 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 19:33:49.4884 Info LogFactory has been closed.
+2025-05-12 19:33:51.6673 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 19:33:51.6777 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 19:33:51.7305 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 19:33:51.7351 Info Configuration initialized.
+2025-05-12 19:33:52.1665 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 19:33:52.1685 Info LogFactory has been closed.
+2025-05-12 19:33:54.2256 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 19:33:54.2357 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 19:33:54.2863 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 19:33:54.2908 Info Configuration initialized.
+2025-05-12 19:33:54.7244 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 19:33:54.7264 Info LogFactory has been closed.
+2025-05-12 19:34:19.7188 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 19:34:19.7298 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 19:34:19.7836 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 19:34:19.7886 Info Configuration initialized.
+2025-05-12 19:34:20.6100 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 19:34:20.6121 Info LogFactory has been closed.
+2025-05-12 19:34:22.7577 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 19:34:22.7684 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 19:34:22.8207 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 19:34:22.8256 Info Configuration initialized.
+2025-05-12 19:34:23.2785 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 19:34:23.2804 Info LogFactory has been closed.
+2025-05-12 19:34:25.5426 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 19:34:25.5538 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 19:34:25.6086 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 19:34:25.6132 Info Configuration initialized.
+2025-05-12 19:34:26.0577 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 19:34:26.0598 Info LogFactory has been closed.
+2025-05-12 20:07:54.9957 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 20:07:55.0061 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 20:07:55.0557 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 20:07:55.0605 Info Configuration initialized.
+2025-05-12 20:07:55.7625 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 20:07:55.7648 Info LogFactory has been closed.
+2025-05-12 20:14:57.6606 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 20:14:57.6711 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 20:14:57.7223 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 20:14:57.7270 Info Configuration initialized.
+2025-05-12 20:14:58.3662 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 20:14:58.3684 Info LogFactory has been closed.
+2025-05-12 20:23:47.7414 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 20:23:47.7520 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 20:23:47.8053 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 20:23:47.8100 Info Configuration initialized.
+2025-05-12 20:23:48.5478 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 20:23:48.5497 Info LogFactory has been closed.
+2025-05-12 20:23:50.7623 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 20:23:50.7735 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 20:23:50.8290 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 20:23:50.8338 Info Configuration initialized.
+2025-05-12 20:23:51.3748 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 20:23:51.3767 Info LogFactory has been closed.
+2025-05-12 20:23:53.5490 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 20:23:53.5596 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 20:23:53.6096 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-12 20:23:53.6144 Info Configuration initialized.
+2025-05-12 20:23:54.1818 Info AppDomain Shutting down. LogFactory closing...
+2025-05-12 20:23:54.1841 Info LogFactory has been closed.
+2025-05-13 00:20:38.4643 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-13 00:20:38.4748 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-13 00:20:38.5269 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-13 00:20:38.5321 Info Configuration initialized.
+2025-05-13 00:20:39.3176 Info AppDomain Shutting down. LogFactory closing...
+2025-05-13 00:20:39.3196 Info LogFactory has been closed.
+2025-05-13 00:20:57.7343 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-13 00:20:57.7448 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-13 00:20:57.8017 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-13 00:20:57.8090 Info Configuration initialized.
+2025-05-13 00:20:58.4367 Info AppDomain Shutting down. LogFactory closing...
+2025-05-13 00:20:58.4388 Info LogFactory has been closed.
+2025-05-13 01:28:05.2129 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-13 01:28:05.2287 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-13 01:28:05.3100 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-13 01:28:05.3162 Info Configuration initialized.
+2025-05-13 01:44:23.6808 Info AppDomain Shutting down. LogFactory closing...
+2025-05-13 01:44:23.6867 Info LogFactory has been closed.
+2025-05-13 01:44:27.4580 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-13 01:44:27.4689 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-13 01:44:27.5211 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-13 01:44:27.5275 Info Configuration initialized.
+2025-05-13 01:56:07.1509 Info AppDomain Shutting down. LogFactory closing...
+2025-05-13 01:56:07.1558 Info LogFactory has been closed.
+2025-05-13 01:56:10.8998 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-13 01:56:10.9109 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-13 01:56:10.9632 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-13 01:56:10.9697 Info Configuration initialized.
+2025-05-13 01:59:57.1864 Info AppDomain Shutting down. LogFactory closing...
+2025-05-13 01:59:57.1923 Info LogFactory has been closed.
+2025-05-13 01:59:59.7812 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-13 01:59:59.7924 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-13 01:59:59.8439 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/Users/senolerdem/RiderProjects/WebApplication1/WebApplication1/nlog.config
+2025-05-13 01:59:59.8495 Info Configuration initialized.
+2025-05-13 02:01:04.0100 Info AppDomain Shutting down. LogFactory closing...
+2025-05-13 02:01:04.0151 Info LogFactory has been closed.
